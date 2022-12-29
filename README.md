@@ -1,2 +1,2 @@
 # NODEJS_REST_API
-Simple REST API using vanilla nodejs without using any framework.
+## Creating nodejs server and building REST Apis for products without using any external framework ( Express  , Deno , Hapi ) 
